@@ -1,2 +1,1 @@
-Projeto Calculadora do Rolê
 Devido a necessidade de ter um controle mais eficiente na divisão da conta entre um grupo, foi criado uma calculadora que organiza os valores inviduais do 'rolê' daquele dia.
