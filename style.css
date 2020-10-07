@@ -1,0 +1,85 @@
+
+.titulo {
+	text-align: center;
+	color: black;
+	background-color: white;
+}
+.elements-position {
+  display: flex; 
+  justify-content: center; 
+  align-items: center;
+}
+.section-right {
+	display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+}
+
+.section-left {
+	display: flex;
+	flex-direction: column;
+	
+}
+input {
+	width: 100px;
+	font-size: 18px;
+	margin: 10px;
+	padding: 10px;
+}
+.valor {
+	width: 200px;
+	font-size: 18px;
+	margin: 10px;
+	padding: 10px;
+}
+
+.remove {
+	width: 30px;
+	height: 30px;
+	font-size: 20px;
+	background-color: tomato;
+	color: white;
+	border: none;
+	border-radius: 15px;
+}
+#addRow,
+#getValues {
+	width: 130px;
+	height: 40px;
+	font-size: 16px;
+	background-color: lightseagreen;
+	color: white;
+	border: none;
+	margin: 20px;
+}
+button:hover {
+	cursor: pointer;
+}
+tr:hover {
+	cursor: move;
+}
+
+.total-individual {
+	color:black;
+	font-size: 20px;
+}
+
+.calcular {
+	width: 130px;
+	height: 40px;
+	font-size: 16px;
+	background-color: lightseagreen;
+	color: white;
+	border: none;
+	margin: 20px;
+}
+.titulo-sections {
+	color: white;
+}
+
+.valor-comum {
+	width: 200px;
+	font-size: 18px;
+	margin: 10px;
+	padding: 10px;
+}
